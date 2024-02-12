@@ -1,0 +1,12 @@
+C:\Users\jaime\source\repos\RegisterLogin\RegisterLogin\bin\Debug\RegisterLogin.exe.config
+C:\Users\jaime\source\repos\RegisterLogin\RegisterLogin\bin\Debug\RegisterLogin.exe
+C:\Users\jaime\source\repos\RegisterLogin\RegisterLogin\bin\Debug\RegisterLogin.pdb
+C:\Users\jaime\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.csproj.AssemblyReference.cache
+C:\Users\jaime\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.Form1.resources
+C:\Users\jaime\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.Form2.resources
+C:\Users\jaime\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.Form3.resources
+C:\Users\jaime\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.Properties.Resources.resources
+C:\Users\jaime\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.csproj.GenerateResource.cache
+C:\Users\jaime\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.csproj.CoreCompileInputs.cache
+C:\Users\jaime\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.exe
+C:\Users\jaime\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.pdb
