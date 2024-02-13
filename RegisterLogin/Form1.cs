@@ -17,9 +17,23 @@ namespace RegisterLogin
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
+            if(textBox1.Text == "correo" && textBox2.Text == "contraseña")
+            {
+                Form f3 = new Form3();
+                f3.ShowDialog();
+            }
+            else
+            {
 
+            }   
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form2 f2 = new Form2();
+            f2.ShowDialog();
         }
     }
 }
