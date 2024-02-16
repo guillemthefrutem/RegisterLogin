@@ -24,9 +24,9 @@ namespace RegisterLogin
                 Form f3 = new Form3();
                 f3.ShowDialog();
             }
-            else
+            else if(textBox1.Text != "correo" || textBox2.Text != "contraseña")
             {
-
+                MessageBox.Show("El correo y/o la contraseña no son correctas", "Error", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }   
         }
 
