@@ -12,9 +12,12 @@ namespace RegisterLogin
 {
     public partial class Form3 : Form
     {
-        public Form3()
+        public Form3(string usuario, string correo)
         {
             InitializeComponent();
+            label1.Text = "Hola " + usuario + ", " + correo;
         }
+
+
     }
 }
