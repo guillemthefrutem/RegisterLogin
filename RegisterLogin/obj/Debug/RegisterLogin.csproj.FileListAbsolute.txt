@@ -3,10 +3,10 @@ C:\Users\AsterJL\source\repos\RegisterLogin\RegisterLogin\bin\Debug\RegisterLogi
 C:\Users\AsterJL\source\repos\RegisterLogin\RegisterLogin\bin\Debug\RegisterLogin.pdb
 C:\Users\AsterJL\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.csproj.AssemblyReference.cache
 C:\Users\AsterJL\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.Form1.resources
-C:\Users\AsterJL\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.Form2.resources
 C:\Users\AsterJL\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.Form3.resources
 C:\Users\AsterJL\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.Properties.Resources.resources
 C:\Users\AsterJL\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.csproj.GenerateResource.cache
 C:\Users\AsterJL\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.csproj.CoreCompileInputs.cache
 C:\Users\AsterJL\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.exe
 C:\Users\AsterJL\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.pdb
+C:\Users\AsterJL\source\repos\RegisterLogin\RegisterLogin\obj\Debug\RegisterLogin.Usuario.resources
